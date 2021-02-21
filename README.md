@@ -1,7 +1,7 @@
 # force-sensor The following step for the design of the sensor has been completed.
 
 
-         #1. Mechanical design AND electrical design  of the sensor has been created#
+       #  1. Mechanical design AND electrical design  of the sensor has been created #
             1. A nested numbered list
             2. Which is numbered
 
