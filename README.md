@@ -4,7 +4,7 @@ Markup : 1. Mechanical design AND electrical design  of the sensor has been crea
             1. A nested numbered list
             2. Which is numbered
 
-         1. Read the raw data of from four sensors
+         2. Read the raw data of from four sensors
 
          3. save the data for different weight (0kg ,0.5kg, 1.25kg, 1.75kg)
          4. Calculation of the weights for using least square method 
