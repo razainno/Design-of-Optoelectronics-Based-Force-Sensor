@@ -22,8 +22,11 @@ Different value of the weight has been put n the sensor and value for the voltag
  after callculation of the weight of the force can been calculated with  eqaution F=V1xw1+V2xw2+V3xw3+V4xw4 
  7. Test the sensor for applying different force
  Applying random force and following result for calibrated sensor has been produced.
- ![Alt text](https://github.com/razainno/force-sensor/blob/main/calibration_1.JPG
-"Force Calculation for calibrated sensor")     
+ 
+  <img src="https://github.com/razainno/force-sensor/blob/main/calibration_1.JPG" width="500" height="500">
+ 
+ 
+    
 
 
            
