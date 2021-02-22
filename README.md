@@ -1,4 +1,4 @@
-## force-sensor
+Markup :  # Force-sensor Design #
 #The following step for the design of the sensor has been completed.
       
  1. Mechanical design of sensor prototype has been done in solid work with following component and printed
