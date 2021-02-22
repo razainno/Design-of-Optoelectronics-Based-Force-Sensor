@@ -13,7 +13,8 @@ The following step for the design of the sensor has been completed.
 
 
 
- ## 3.  When obstacle inturrupt the path of from four sensors and voltage decreased, these vlaue with help of Adc has been converted into digital value and feed into raspberry pi for process where we can read the Raw data
+ ## 3. Raw data reading
+ When obstacle inturrupt the path of from four sensors and voltage decreased, these vlaue with help of Adc has been converted into digital value and feed into raspberry pi for process where we can read the Raw data
 
  ## 4. Save the data for different weight (0kg ,0.5kg, 1.25kg, 1.75kg
 Different value of the weight has been put n the sensor and value for the voltage has been save for all four sensors
