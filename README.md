@@ -1,4 +1,4 @@
-Markup :  # Force-sensor Design #
+ # Force-sensor Design 
 
 Markup :  ============= (below H1 text)
 
