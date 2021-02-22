@@ -2,11 +2,13 @@
 #The following step for the design of the sensor has been completed.
       
  1. Mechanical design of sensor prototype has been done in solid work with following component and printed
- 2. <img src="https://github.com/razainno/force-sensor/blob/main/mechanical_part.JPG" width="400" height="400">
+  <img src="https://github.com/razainno/force-sensor/blob/main/mechanical_part.JPG" width="550" height="400">
+  
+  
+  
  2. electrical protype using four opto sensor is the following
- 3. <img src="https://github.com/razainno/force-sensor/blob/main/photo5879850171876095368.jpg" width="400" height="790">
-![Alt text](https://github.com/razainno/force-sensor/blob/main/photo5879850171876095368.jpg
-"Electrical design of the sensor")
+ 3. <img src="https://github.com/razainno/force-sensor/blob/main/photo5879850171876095368.jpg" width="300" height="300">
+
 
 
 3.  When obstacle inturrupt the path of from four sensors and voltage decreased, these vlaue with help of Adc has been converted into digital value and feed into raspberry pi for process where we can read the Raw data
