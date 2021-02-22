@@ -1,5 +1,8 @@
 Markup :  # Force-sensor Design #
-#The following step for the design of the sensor has been completed.
+
+Markup :  ============= (below H1 text)
+
+The following step for the design of the sensor has been completed.
       
  1. Mechanical design of sensor prototype has been done in solid work with following component and printed
   <img src="https://github.com/razainno/force-sensor/blob/main/mechanical_part.JPG" width="550" height="400">
