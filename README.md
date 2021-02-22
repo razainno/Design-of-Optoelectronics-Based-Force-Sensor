@@ -23,7 +23,7 @@ Different value of the weight has been put n the sensor and value for the voltag
  7. Test the sensor for applying different force
  Applying random force and following result for calibrated sensor has been produced.
  
-  <img src="https://github.com/razainno/force-sensor/blob/main/calibration_1.JPG" width="1000" height="500">
+  <img src="https://github.com/razainno/force-sensor/blob/main/calibration_1.JPG" width="1200" height="500">
  
  
     
