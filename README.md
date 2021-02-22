@@ -2,7 +2,8 @@
 #The following step for the design of the sensor has been completed.
       
  1. Mechanical design of sensor prototype has been done in solid work with following component and printed
-            ![Alt text](https://github.com/razainno/force-sensor/blob/main/mechanical_part.JPG
+ 2. <img src="https://github.com/razainno/force-sensor/blob/main/mechanical_part.JPG" width="400" height="790">
+            ![Alt text]("https://github.com/razainno/force-sensor/blob/main/mechanical_part.JPG" width="400" height="790"
 "Mechanical design of the sensor")
  2. electrical protype using four opto sensor is the following
  3. <img src="https://github.com/razainno/force-sensor/blob/main/photo5879850171876095368.jpg" width="400" height="790">
