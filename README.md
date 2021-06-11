@@ -27,9 +27,14 @@ Different value of the weight has been put n the sensor and value for the voltag
  Applying random force and following result for calibrated sensor has been produced.
  
   <img src="https://github.com/razainno/force-sensor/blob/main/calibration_1.JPG" width="1200" height="500">
+  ## 8. PCB Board design
+  The whole design is created in Altium designer output can be seen below in images
+  <p float="left">
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/top.JPG" width="100" />
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/bottom.JPG" width="100" /> 
+</p>
  
- 
-    
+
 
 
            
