@@ -1,0 +1,17 @@
+﻿"sensor_d" = 55
+"sensor_thikness"= 2
+"screw_d"= 2
+"screw_h1"= 12
+"screw_h2"= 8
+"screw_hh_d"= 3.8
+"screw_hh_h"= 2
+"print_offset"= 0.2
+"nut_d"= 3.8
+"nut_h"= 2
+"mounting_r"= "sensor_d" - 8
+"board_size_a"= 37.2
+"board_size_b"= 30.1
+"mount_hole_a"= 12.7
+"mount_hole_b"= 17.78
+"board_size_c"= 20.23
+"board_size_d"= 0.25
