@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=3.3V Pin=R10-1
-Added Pin To Net: NetName=3.3V Pin=U3-C
-Added Member To Class: ClassName=schematics Member=Component * MCP2551T-I/SN
-Added Member To Class: ClassName=schematics Member=Component * AD7682BCPZRL7
-Added Member To Class: ClassName=schematics Member=Component * STM32F405RGT7
