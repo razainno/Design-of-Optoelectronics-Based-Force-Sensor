@@ -30,13 +30,13 @@ Different value of the weight has been put n the sensor and value for the voltag
   ## 8. PCB Board design
   The whole design is created in Altium designer output can be seen below in images
   <p float="left">
-  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/top.JPG" width="400" height="300" />
-  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/bottom.JPG" width="400" height="300" /> 
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/top.JPG" width="400" height="400" />
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/bottom.JPG" width="400" height="400" /> 
 </p>
  The 3d View of the pscb board is shown below
- <p float="left">
-  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="300"/>
-  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="300" /> 
+ <p float="centre">
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="400"/>
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="400" /> 
 </p>
 
 
