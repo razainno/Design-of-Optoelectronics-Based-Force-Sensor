@@ -43,9 +43,9 @@ while True:
         channels[channel+1] = AnalogIn(ads,channel).value - offsets[channel+1]
     time.sleep(0.005)
     #F= channels[2]*(-0.49245174)+channels[3]*(1.03675718)+channels[4]*(-0.52497244)
-    #s = np.random.uniform(-1,2)
+    
     print(f'{channels[1]} | {channels[2]} | {channels[3]} | {channels[4]}|')
-    F1= channels[3]*(0.0)+channels[4]*( -0.039085)
+    F1=  channels[2]*(-0.004332)+ channels[3]*(0.003211)+channels[4]*( -0.039085)
     F2=channels[1]*(0.0145)
     Force1.append(F1)
     Force2.append(F2)
