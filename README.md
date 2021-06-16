@@ -1,3 +1,4 @@
+ 
  # Force-sensor Design 
 
 
@@ -39,6 +40,15 @@ Different value of the weight has been put n the sensor and value for the voltag
   <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="340" /> 
 </p>
 
-
+ ## 8. Calibation results and comparison with Futek sensor
+ Results are shown in following figure:
+ 
+ </p>
+ The 3d View of the pscb board is shown below
+ <p float="left">
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="340"/>
+  <img src="https://github.com/razainno/force-sensor/blob/main/Electrical_Design/pcb_bottom.JPG" width="400" height="340" /> 
+</p>
+ 
 
            
