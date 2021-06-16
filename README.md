@@ -44,14 +44,13 @@ Different value of the weight has been put n the sensor and value for the voltag
  Results are shown in following figure:
  
  </p>
- The 3d View of the pscb board is shown below
+ 
  <p float="left">
   <img src="https://github.com/razainno/Design-of-Optoelectronics-Based-Force-Sensor/blob/main/Calibration_wit_Futek_sensor/cab3.JPG" width="400" height="340"/>
   <img src="https://github.com/razainno/Design-of-Optoelectronics-Based-Force-Sensor/blob/main/Calibration_wit_Futek_sensor/error1.JPG" width="400" height="340" /> 
 </p>
  Second experiment
  </p>
- The 3d View of the pscb board is shown below
  <p float="left">
   <img src="https://github.com/razainno/Design-of-Optoelectronics-Based-Force-Sensor/blob/main/Calibration_wit_Futek_sensor/cabr1.JPG" width="400" height="340"/>
   <img src="https://github.com/razainno/Design-of-Optoelectronics-Based-Force-Sensor/blob/main/Calibration_wit_Futek_sensor/error_r1.JPG" width="400" height="340" /> 
